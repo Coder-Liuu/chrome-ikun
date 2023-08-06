@@ -1,6 +1,6 @@
 # chrome-ikun
 
-一款专为IKUN服务的谷歌浏览器插件，有了他你就是Bilibili中最靓的仔！
+一款专为IKUN服务的谷歌浏览器插件，有了它你就是Bilibili中最靓的仔！
 
 ![1691296990377.png](https://img1.imgtp.com/2023/08/06/VdfcWIxE.png)
 
